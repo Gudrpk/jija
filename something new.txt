@@ -1,1 +1,2 @@
 prompt('hohohoho');
+second class
